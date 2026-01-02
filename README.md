@@ -79,7 +79,3 @@ This pipeline automates the "Data Engine." Instead of manually collecting and dr
 
 
 * **Outcome:** A fine-tuned YOLO11 model that generalizes better to rare scenarios (like "snowy weather" or "nighttime") that were hard to collect manually.
-
-### **Next Step**
-
-Would you like to start **Phase 1** by brainstorming the specific **variables** (Objects, Environments, Lighting) relevant to your project?
