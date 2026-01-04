@@ -3,8 +3,10 @@ from pathlib import Path
 import shutil
 from tqdm import tqdm
 
-VOC_ROOT = Path(r"datasets\VOC\data\VOCdevkit\VOC2007_modified")
-OUT_ROOT = Path(r"datasets\VOC\yolo_voc2007_replaced")
+# VOC_ROOT = Path(r"datasets\VOC\data\VOCdevkit\VOC2007_modified")
+
+VOC_ROOT = Path("datasets/run1")
+OUT_ROOT = Path("datasets/run1_processed")
 
 REMOVE_CLASS = "sheep"
 
