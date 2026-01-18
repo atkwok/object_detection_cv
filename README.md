@@ -1,4 +1,4 @@
-# object_detection_cv
+# ObjectGen: Dataset Adaptation for Object Detection via Class Replacement and Synthetic Data Generation
 
 
 ### Project description：
